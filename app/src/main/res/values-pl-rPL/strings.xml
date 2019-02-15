@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gallery">Zapisane Przedmioty</string>
+    <string name="searchButton">Znajdź Podobne</string>
+    <string name="search_hint">Wpisz tutaj</string>
+    <string name="APICall_No_Input">Nie mam czego szukać!</string>
+    <string name="APICall_Failed">Nie udało się otrzymać rekomendacji. Wybacz!</string>
+    <string name="APICall_Success_Data_Found">Znalazłem coś co Ci się spodoba!</string>
+    <string name="APICall_Success_Data_NOT_Found">Nie znalazłem niczego co by Tobie się spodobało. :(</string>
+    <string name="recommendation_type_body">Typ</string>
+    <string name="recommendation_save">Zapisz</string>
+    <string name="recommendation_details">Więcej</string>
+    <string name="no_data">Nic!</string>
+    <string name="searchDatabase_hint">Przeszukaj zapisane przedmioty</string>
+    <string name="saved_item_delete">Usuń z zapisanych</string>
+    <string name="recommendation_details_save">Zapisz na później!</string>
+    <string name="database_added">Zapisano!</string>
+    <string name="database_removed">Usunięto!</string>
+    <string name="type_band">Zespół</string>
+    <string name="type_movie">Film</string>
+    <string name="type_show">Występ</string>
+    <string name="type_podcast">Podcast</string>
+    <string name="type_book">Książka</string>
+    <string name="type_author">Autor</string>
+    <string name="type_game">Gra</string>
+    <string name="type_music">Muzyka</string>
+</resources>
